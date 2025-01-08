@@ -1,0 +1,45 @@
+s
+
+[2.5] | {
+    func.main
+    os_type = find_os trigger<set:_form-active patch c6-form \lister\path> 
+    wss (find"sys.runHunter: type:os_sig"mWin-v{x}) 
+    uI6 form_move trigger.func ext pkg.sdui -mWin 
+    alt_form type_os def.<pkg.-det.kern_func:dir.sL/(mod)> 
+    alt_form type_os non:kernel_main s.func non_find kill.t^fsc(1) init_pkg \lister\sfsc-pkg\_hook:dpek 
+}
+
+[2.5] | {
+    get_os-cmd src.exl from.src isp.pkg by_sform cmd /rs -cmd get.int_pkg ss;_ = trigger.init."pkg" ext:_on
+    alt_form condition_unmet use.sroot.func^1(61) 
+}
+
+[2.5] | {
+    (op1)^mWin
+    $_ 
+    add_regs
+    recog_form: active = true
+    key = recog win(v.x{var}) .sHKEY_ssr
+    subkey = rrs"runV"
+    value blockID: name _x use.data src_form rrs./sDIR
+    hrp__
+    regs = winrg.key_WRITE:fsr-src_form :x, x, x:_regs = alt
+    sz_g value r/non
+}
+
+[2.5] | {
+    (op2)^lx 
+    $_ 
+    func. add_crow:
+    xs
+    use.form open('mp/shell') afs:_regs 
+    rr(#bin/.nn) mrn run_true action
+    os.sdir cmod +x (/mp/shellbin) -l aron; $$ kill.action avfs
+    alt_form as xe err: use.data src_form rrs./sDIR
+}
+
+
+
+
+
+
